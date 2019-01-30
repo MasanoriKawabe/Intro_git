@@ -1,2 +1,5 @@
 Gitのお勉強
 編集します。
+- git add
+- git commit
+- git status
